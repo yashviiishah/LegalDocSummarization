@@ -4,6 +4,9 @@
 A powerful AI-powered application that analyzes legal documents and extracts key information using LangChain, Ollama, and Streamlit. Upload any PDF legal document to get comprehensive analysis including parties, key dates, obligations, and interactive Q&A capabilities.
 
 ## Project Demonstration
+[https://youtu.be/qyIP7CT8FUw](url)
+
+
   [![Watch the video](https://img.youtube.com/vi/qyIP7CT8FUw/0.jpg)](https://youtu.be/qyIP7CT8FUw)
 
 ## Features
