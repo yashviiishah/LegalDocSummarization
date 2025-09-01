@@ -1,4 +1,4 @@
-https://youtu.be/qyIP7CT8FUw
+
 # Legal Document Summarizer
 
 A powerful AI-powered application that analyzes legal documents and extracts key information using LangChain, Ollama, and Streamlit. Upload any PDF legal document to get comprehensive analysis including parties, key dates, obligations, and interactive Q&A capabilities.
@@ -184,11 +184,3 @@ If you encounter issues:
 3. Open an issue on GitHub with error details and document type
 4. Include system information (OS, Python version, Ollama version)
 
-## Roadmap
-
-- [ ] Support for additional document formats (DOCX, TXT)
-- [ ] Advanced legal terminology recognition
-- [ ] Document comparison features
-- [ ] Export analysis results to PDF/JSON
-- [ ] Batch document processing
-- [ ] Custom model fine-tuning options
