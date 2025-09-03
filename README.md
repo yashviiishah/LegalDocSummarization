@@ -83,7 +83,7 @@ streamlit run app.py
 - Licensing Agreements
 
 
-## Technology Stack
+## Tech Stack:
 
 - **Frontend**: Streamlit for web interface
 - **LLM**: Ollama with Llama 3.1 8B model
